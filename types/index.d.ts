@@ -35,6 +35,9 @@ export type SiteConfig = {
   links: {
     twitter: string
     github: string
+    squidnftgame: string
+    appstore: string
+    googleplay: string
   }
 }
 
